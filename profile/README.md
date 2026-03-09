@@ -1,4 +1,4 @@
-# HeiHGM — Heidelberg Hypergraph Methods
+# HeiHGM — Heidelberg Hypergraph Matching
 
 We develop high-performance algorithms for b-matching in hypergraphs, including exact solvers, heuristics, and semi-streaming approaches.
 
