@@ -1,6 +1,6 @@
 # HeiHGM — Heidelberg Hypergraph Methods
 
-We develop high-performance algorithms and solvers for hypergraph problems, with a focus on combinatorial optimization and streaming models.
+We develop high-performance algorithms for b-matching in hypergraphs, including exact solvers, heuristics, and semi-streaming approaches.
 
 ## Projects
 
