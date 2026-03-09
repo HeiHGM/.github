@@ -16,6 +16,3 @@ brew install HeiHGM/bmatching/bmatching
 bmatching_cli --graph input.hgr --algorithms greedy --capacity 5
 ```
 
-## Contact
-
-Heidelberg University, Institute of Computer Science
