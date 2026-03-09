@@ -1,13 +1,13 @@
 # HeiHGM — Heidelberg Hypergraph Methods
 
-We develop high-performance algorithms and solvers for hypergraph problems, with a focus on combinatorial optimization.
+We develop high-performance algorithms and solvers for hypergraph problems, with a focus on combinatorial optimization and streaming models.
 
 ## Projects
 
 | Repository | Description |
 |---|---|
-| [**Bmatching**](https://github.com/HeiHGM/Bmatching) | High-performance solver for b-matching problems in hypergraphs |
-| [**Streaming**](https://github.com/HeiHGM/Streaming) | Streaming algorithms for hypergraph problems |
+| [**Streaming**](https://github.com/HeiHGM/Streaming) | Semi-streaming algorithms for hypergraph matching — swap-based, guarantee-stack, and lenient update strategies with provable approximation guarantees |
+| [**Bmatching**](https://github.com/HeiHGM/Bmatching) | High-performance solver for b-matching problems in hypergraphs — greedy, ILS, ILP, and reduction-based pipelines |
 
 ## Quick Start
 
